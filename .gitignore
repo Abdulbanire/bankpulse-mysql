@@ -1,0 +1,14 @@
+# Raw data — never commit CSVs to GitHub
+data/
+ 
+# MySQL Workbench files
+*.mwb
+*.mwb.bak
+ 
+# OS files
+.DS_Store
+Thumbs.db
+ 
+# Editor files
+.vscode/
+.idea/
